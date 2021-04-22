@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../font/flaticon.ttf?a52f8788679e2c34a64d26e0c379672b") format("truetype"),
+        url("../font/flaticon.woff?a52f8788679e2c34a64d26e0c379672b") format("woff"),
+        url("../font/flaticon.woff2?a52f8788679e2c34a64d26e0c379672b") format("woff2"),
+        url("../font/flaticon.eot?a52f8788679e2c34a64d26e0c379672b#iefix") format("embedded-opentype"),
+        url("../font/flaticon.svg?a52f8788679e2c34a64d26e0c379672b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-pressure:before {
+    content: "\f101";
+}
+
+.flaticon-ecommerce:before {
+    content: "\f102";
+}
+
+.flaticon-layers:before {
+    content: "\f103";
+}
+
+.flaticon-settings:before {
+    content: "\f104";
+}
+
+.flaticon-technical-support:before {
+    content: "\f105";
+}
+
+.flaticon-analytics:before {
+    content: "\f106";
+}
+
+.flaticon-globe:before {
+    content: "\f107";
+}

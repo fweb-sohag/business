@@ -1,0 +1,503 @@
+/* extra small device  */
+@media (max-width:575.98px) {
+
+
+
+  .navbar {
+    background: rgb(76, 66, 248);
+    background: linear-gradient(112deg, rgba(76, 66, 248, 1) 0%, rgba(147, 166, 185, 1) 35%, rgba(112, 157, 202, 1) 100%);
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .navbar-collapse {
+    /* background: red; */
+    text-align: center;
+    background: cornflowerblue;
+    line-height: 25px;
+
+  }
+
+
+
+  .navbar .navbar-nav .nav-link {
+    color: #fff;
+  }
+
+  #banner .banner-slider .slider-content h1 {
+    font-size: 12px;
+  }
+
+  #banner .banner-slider .slider-content p {
+    font-size: 12px;
+    margin-top: -9px;
+    padding-bottom: 90px;
+  }
+
+  #banner .banner-slider .slider-content a {
+    font-size: 7px;
+    padding: 10px 15px;
+    bottom: 60px;
+  }
+
+  #service .head h2 {
+    font-size: 20px;
+  }
+
+  #service .head p {
+    font-size: 10px;
+    padding-bottom: 20px;
+  }
+
+  #service {
+    padding-top: 20px;
+    padding-bottom: 0px;
+  }
+
+  #service .service-text {
+    padding-bottom: 7px;
+  }
+
+  #how-are .how-bg {
+    position: unset;
+  }
+
+  #how-are .how-bg .how-text h2 {
+    padding-top: 9px;
+  }
+
+  #how-are .how-bg .how-text {
+    padding: 0 35px;
+    padding-bottom: 40px;
+
+  }
+
+  #how-are .how-bg .how-text p:last-of-type {
+    padding-top: 0px;
+    padding-bottom: 16px;
+  }
+
+  #how-are .how-bg .how-text a {
+    font-size: 10px;
+    padding: 10px 20px;
+  }
+
+  #our-work {
+    margin-top: 20px;
+  }
+
+  #our-work .head-text {
+    font-size: 10px;
+    padding: 0 20px;
+  }
+
+  .head h2 {
+    font-size: 22px;
+  }
+
+  #our-work .filter-head {
+    padding-bottom: 0px;
+  }
+
+  #our-work .filter-head ul li {
+    font-size: 10px;
+    padding: 5px 15px;
+  }
+
+  #testimonials {
+    margin-top: -46px;
+  }
+
+  #testimonials .slider .slider-item {
+    padding-top: 10px;
+  }
+
+  #testimonials .slider .slider-item p {
+    padding: 0;
+    margin-right: 0;
+  }
+
+  #footer .footer-band h2 {
+    padding-top: 15px;
+  }
+
+  #footer .footer-band p {
+    padding-bottom: 0;
+  }
+
+  #footer .contact h2 {
+    padding-top: 0;
+  }
+
+  #footer .latest h2 {
+    padding-top: 0;
+  }
+
+  #footer .news .nwes-text h2 {
+    padding-top: 0;
+  }
+
+  .head h2::after {
+    /* right: 46%;
+    transform: translateX(-46%); */
+    display: none;
+  }
+
+  .head h2::before {
+    /* left: 64%;
+    transform: translateX(-64%); */
+    display: none;
+  }
+}
+
+/* extra small device  */
+/* small device  */
+@media(min-width:575px) and (max-width:767.98px) {
+  .navbar {
+    background: rgb(76, 66, 248);
+    background: linear-gradient(112deg, rgba(76, 66, 248, 1) 0%, rgba(147, 166, 185, 1) 35%, rgba(112, 157, 202, 1) 100%);
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .navbar-collapse {
+    /* background: red; */
+    text-align: center;
+    background: cornflowerblue;
+    line-height: 25px;
+    margin-top: 15px;
+
+  }
+
+
+
+  .navbar .navbar-nav .nav-link {
+    color: #fff;
+  }
+
+  #banner .banner-slider .slider-content h1 {
+    font-size: 16px;
+  }
+
+  #banner .banner-slider .slider-content p {
+    font-size: 14px;
+    margin-top: -9px;
+    padding-bottom: 55px;
+  }
+
+  #banner .banner-slider .slider-content a {
+    font-size: 10px;
+    padding: 10px 15px;
+    bottom: 20px;
+  }
+
+  #service .head h2 {
+    font-size: 22px;
+  }
+
+  #service .head p {
+    font-size: 15px;
+    padding-bottom: 20px;
+  }
+
+  #service {
+    padding-top: 20px;
+    padding-bottom: 0px;
+  }
+
+  #service .service-text {
+    padding-bottom: 7px;
+  }
+
+  #how-are .how-bg {
+    position: unset;
+  }
+
+  #how-are .how-bg .how-text h2 {
+    padding-top: 9px;
+  }
+
+  #how-are .how-bg .how-text {
+    padding: 0 35px;
+    padding-bottom: 40px;
+
+  }
+
+  #how-are .how-bg .how-text p:last-of-type {
+    padding-top: 0px;
+    padding-bottom: 16px;
+  }
+
+  #how-are .how-bg .how-text a {
+    font-size: 15px;
+    padding: 10px 20px;
+  }
+
+  #our-work {
+    margin-top: 20px;
+  }
+
+  #our-work .head-text {
+    font-size: 11px;
+    padding: 0 20px;
+  }
+
+  .head h2 {
+    font-size: 22px;
+  }
+
+  #our-work .filter-head {
+    padding-bottom: 0px;
+  }
+
+  #our-work .filter-head ul li {
+    font-size: 13px;
+    padding: 5px 15px;
+  }
+
+  #testimonials {
+    margin-top: -46px;
+  }
+
+  #testimonials .slider .slider-item {
+    padding-top: 10px;
+  }
+
+  #testimonials .slider .slider-item p {
+    padding: 0;
+    margin-right: 0;
+  }
+
+  #footer .footer-band h2 {
+    padding-top: 15px;
+  }
+
+  #footer .footer-band p {
+    padding-bottom: 0;
+  }
+
+  #footer .contact h2 {
+    padding-top: 0;
+  }
+
+  #footer .latest h2 {
+    padding-top: 0;
+  }
+
+  #footer .news .nwes-text h2 {
+    padding-top: 0;
+  }
+
+  .head h2::after {
+    right: 46%;
+    transform: translateX(-46%);
+
+  }
+
+  .head h2::before {
+    left: 64%;
+    transform: translateX(-64%);
+
+  }
+}
+
+
+/* small device  */
+/* medium device  */
+@media(min-width:768px) and (max-width:991.98px) {
+  .navbar {
+    background: rgb(76, 66, 248);
+    background: linear-gradient(112deg, rgba(76, 66, 248, 1) 0%, rgba(147, 166, 185, 1) 35%, rgba(112, 157, 202, 1) 100%);
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .navbar-collapse {
+    /* background: red; */
+    text-align: center;
+    background: cornflowerblue;
+    line-height: 25px;
+
+  }
+
+  #navbarSupportedContent {
+    margin-top: 0px;
+  }
+
+  .navbar .navbar-nav .nav-link {
+    color: #fff;
+  }
+
+  #banner .banner-slider .slider-content h1 {
+    font-size: 16px;
+  }
+
+  #banner .banner-slider .slider-content p {
+    font-size: 14px;
+    margin-top: -9px;
+    padding-bottom: 55px;
+  }
+
+  #banner .banner-slider .slider-content a {
+    font-size: 10px;
+    padding: 10px 15px;
+    bottom: 20px;
+  }
+
+  #service .head h2 {
+    font-size: 22px;
+  }
+
+  #service .head p {
+    font-size: 15px;
+    padding-bottom: 20px;
+  }
+
+  #service {
+    padding-top: 20px;
+    padding-bottom: 0px;
+  }
+
+  #service .service-text {
+    padding-bottom: 7px;
+  }
+
+  #how-are .how-bg .how-text h2 {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+
+  #how-are .how-bg .how-text p:last-of-type {
+    padding-top: 0;
+    padding-bottom: 0;
+
+  }
+
+  #how-are .how-bg .how-text p {
+    line-height: 18px;
+    font-size: 10px;
+  }
+
+  #how-are .how-bg .how-text a {
+    font-size: 10px;
+  }
+
+  #our-work {
+    margin-top: 20px;
+  }
+
+  #our-work .head-text {
+    font-size: 11px;
+    padding: 0 20px;
+  }
+
+  .head h2 {
+    font-size: 22px;
+  }
+
+  #our-work .filter-head {
+    padding-bottom: 0px;
+  }
+
+  #our-work .filter-head ul li {
+    font-size: 13px;
+    padding: 5px 15px;
+  }
+
+  #testimonials {
+    margin-top: -46px;
+  }
+
+  #testimonials .slider .slider-item {
+    padding-top: 10px;
+  }
+
+  #testimonials .slider .slider-item p {
+    padding: 0;
+    margin-right: 0;
+  }
+
+  #footer .footer-band h2 {
+    padding-top: 15px;
+  }
+
+  #footer .footer-band p {
+    padding-bottom: 0;
+  }
+
+  #footer .contact h2 {
+    padding-top: 0;
+  }
+
+  #footer .latest h2 {
+    padding-top: 0;
+  }
+
+  #footer .news .nwes-text h2 {
+    padding-top: 0;
+  }
+
+  .head h2::after {
+    right: 31%;
+    transform: translateX(-31%);
+
+  }
+
+  .head h2::before {
+    left: 40%;
+    transform: translateX(-40%);
+
+  }
+}
+
+/* medium device  */
+
+/* large device */
+@media(min-width:992px) and (max-width:1199.98px) {
+  #banner .banner-slider .slider-content h1 {
+    font-size: 33px;
+  }
+
+  #banner .banner-slider .slider-content p {
+    font-size: 24px;
+    margin-top: -9px;
+    padding-bottom: 55px;
+  }
+
+  #banner .banner-slider .slider-content a {
+    font-size: 12px;
+    bottom: -15px;
+  }
+
+  #how-are .how-bg .how-text h2 {
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+  }
+
+  #how-are .how-bg .how-text p:last-of-type {
+    padding-top: 0;
+    padding-bottom: 30px;
+  }
+
+  #how-are .how-bg .how-text p {
+    line-height: 20px;
+    font-size: 12px;
+  }
+
+
+  #how-are .how-bg .how-text a {
+    font-size: 10px;
+  }
+}
+
+#our-work .head-text {
+  padding: 0 25px;
+}
+
+#testimonials .slider .slider-item p {
+  margin-right: 20px;
+}
+
+/* large device */
