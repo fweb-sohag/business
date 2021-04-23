@@ -1,3 +1,5 @@
+'use strict'
+
 $(function(){
     var backToTop = $('.backToTop');
     var html_body = $('html,body');
@@ -138,23 +140,18 @@ $(function(){
         }); 
     });
 
-    $(document).ready(function () {
 
-        $('.first-button').on('click', function () {
-      
-          $('.animated-icon1').toggleClass('open');
-        });
-        $('.second-button').on('click', function () {
-      
-          $('.animated-icon2').toggleClass('open');
-        });
-        $('.third-button').on('click', function () {
-      
-          $('.animated-icon3').toggleClass('open');
-        });
+        //    menu icon toggler
+
+        $(".navbar .navbar-toggler").on("click", function () {
+
+          $(".navbar .navbar-toggler span").toggleClass("fas fa-times");
+  
       });
 
-      'use strict'
+
+
+      
     /* preloder */
 document.body.onload = function () {
 

@@ -10,17 +10,19 @@
     padding-bottom: 0;
   }
 
+  .navbar .navbar-brand {
+    height: 70px;
+    line-height: 70px;
+  }
+
   .navbar-collapse {
     /* background: red; */
     text-align: center;
     background: cornflowerblue;
-    line-height: 25px;
 
   }
 
-
-
-  .navbar .navbar-nav .nav-link {
+  / .navbar .navbar-nav .nav-link {
     color: #fff;
   }
 
@@ -158,6 +160,11 @@
     background: linear-gradient(112deg, rgba(76, 66, 248, 1) 0%, rgba(147, 166, 185, 1) 35%, rgba(112, 157, 202, 1) 100%);
     padding-top: 0;
     padding-bottom: 0;
+  }
+
+  .navbar .navbar-brand {
+    height: 70px;
+    line-height: 70px;
   }
 
   .navbar-collapse {
@@ -310,6 +317,11 @@
     background: linear-gradient(112deg, rgba(76, 66, 248, 1) 0%, rgba(147, 166, 185, 1) 35%, rgba(112, 157, 202, 1) 100%);
     padding-top: 0;
     padding-bottom: 0;
+  }
+
+  .navbar .navbar-brand {
+    height: 70px;
+    line-height: 70px;
   }
 
   .navbar-collapse {
